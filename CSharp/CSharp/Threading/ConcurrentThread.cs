@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace CSharp
+namespace CSharp.Threading
 {
     /// <summary>
     /// 批量高并发处理
